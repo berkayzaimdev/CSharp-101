@@ -1,0 +1,6 @@
+c:\users\asus\documents\visual studio 2013\Projects\CSharp-101\CSharp-101\bin\Debug\CSharp-101.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\CSharp-101\CSharp-101\obj\Debug\CSharp-101.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2013\Projects\CSharp-101\CSharp-101\bin\Debug\CSharp-101.exe
+c:\users\asus\documents\visual studio 2013\Projects\CSharp-101\CSharp-101\bin\Debug\CSharp-101.pdb
+c:\users\asus\documents\visual studio 2013\Projects\CSharp-101\CSharp-101\obj\Debug\CSharp-101.exe
+c:\users\asus\documents\visual studio 2013\Projects\CSharp-101\CSharp-101\obj\Debug\CSharp-101.pdb
